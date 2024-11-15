@@ -20,7 +20,7 @@ matrix=np.array([[6,2,3],[3,1,1],[10,3,4]])
 inverse=np.linalg.inv(matrix)
 print(inverse)
 ``````
-## Output:![Alt text](output3-1.png)
+## Output:![Alt text](output3.png)
 ## Reslut
 Thus the inverse of given matrix is successfully solved using python program
 
